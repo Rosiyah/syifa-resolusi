@@ -1,2 +1,2 @@
 # syifa-resolusi
-repository untuk menyimpan file syifa saja
+repository untuk menyimpan file Tugas perkuliahan saja 
